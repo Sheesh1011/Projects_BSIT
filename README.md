@@ -1,2 +1,3 @@
-# Projects_BSIT
-For My Projects
+# Final Project
+Kaithlyn Mhiel Ramos
+BSIT-1B
